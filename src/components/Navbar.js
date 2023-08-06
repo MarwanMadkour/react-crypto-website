@@ -26,8 +26,8 @@ const Navbar = () => {
         <div className="btn-group">
           <button className="btn">Connect Wallet</button>
         </div>
-        <div className="hamburgers">
-          <FaBars></FaBars>
+        <div className="hamburger">
+          <FaBars size={20} style={{ color: "#333" }}></FaBars>
         </div>
       </div>
     </div>
