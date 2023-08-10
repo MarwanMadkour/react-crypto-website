@@ -16,8 +16,13 @@
 }
 
 .hero .input-container {
+    display:flex;
     padding: 1rem 0;
 }
+
+.hero .input-container input {
+    margin-right: 0.5rem; /* Add spacing between input and button */
+  }
 
 .hero .right {
     padding: 1rem;
@@ -32,6 +37,10 @@
     max-width: 80%;
     margin: auto;
 }
+
+/* .hero button{
+    margin-top: 1rem;
+} */
 
 @media screen and (max-width: 940px) {
     .hero .container {

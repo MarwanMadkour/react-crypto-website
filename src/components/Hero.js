@@ -12,7 +12,7 @@ const Hero = () => {
           <h1>Invest in Cryptocurrency using your IRA</h1>
           <p>Buy, sell, and store hundreds of cryptocurrencies</p>
           <div className="input-container">
-            <input type="email" placeholder="Enter your email" />
+            <input type="email" placeholder="Enter your email"></input>
             <button className="btn">Learn more</button>
           </div>
         </div>
