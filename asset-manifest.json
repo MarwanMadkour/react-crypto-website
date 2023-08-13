@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-crypto-website/static/css/main.094fcd9a.css",
+    "main.js": "/react-crypto-website/static/js/main.3e458643.js",
+    "static/media/hero-img.png": "/react-crypto-website/static/media/hero-img.a7c5565d41db958d7cb1.png",
+    "static/media/phone-app.png": "/react-crypto-website/static/media/phone-app.76098700e52defa4c091.png",
+    "index.html": "/react-crypto-website/index.html",
+    "main.094fcd9a.css.map": "/react-crypto-website/static/css/main.094fcd9a.css.map",
+    "main.3e458643.js.map": "/react-crypto-website/static/js/main.3e458643.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.094fcd9a.css",
+    "static/js/main.3e458643.js"
+  ]
+}
